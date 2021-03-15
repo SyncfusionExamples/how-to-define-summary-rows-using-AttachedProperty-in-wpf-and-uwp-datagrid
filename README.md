@@ -1,4 +1,4 @@
-# How to define summary rows using AttachedProperty in wpf and uwp datagrid?
+# How to define summary rows using AttachedProperty in WPF and UWP DataGrid (SfDataGrid)?
 
 This example illustrates how to define summary rows using AttachedProperty in [WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid).
 
